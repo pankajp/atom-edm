@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle edm",
+        "command": "edm:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "edm",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "edm:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

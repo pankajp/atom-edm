@@ -1,0 +1,18 @@
+{
+  "name": "EDM Commander",
+  "main": "./lib/edm",
+  "version": "0.0.1",
+  "description": "Integration with Enthought's EDM Python manager",
+  "keywords": ["EDM", "python"
+  ],
+  "activationCommands": {
+    "atom-workspace": "edm:toggle"
+  },
+  "repository": "https://github.com/pankajp/atom-edm",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
