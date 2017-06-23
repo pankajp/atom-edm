@@ -1,5 +1,5 @@
 {
-  "name": "EDM Commander",
+  "name": "EDM-Commander",
   "main": "./lib/edm",
   "version": "0.0.1",
   "description": "Integration with Enthought's EDM Python manager",
